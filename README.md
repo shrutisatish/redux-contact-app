@@ -8,6 +8,8 @@ Delete Contacts<br/>
 Display contacts either in the list or grid layout<br/>
 Uses the concepts of redux<br/>
 
+Please visit https://shrutisatish.github.io/redux-contact-app for a live dmeo
+
 ## Available Scripts
 
 In the project directory, you can run:
