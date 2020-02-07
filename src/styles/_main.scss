@@ -1,0 +1,32 @@
+.main {
+	text-align: center;
+}
+
+.form {
+	display: inline-block;
+	&__phone{
+		margin-left: 25%;
+	}
+}
+
+.contact--info--grid {
+	display: flex;
+	flex-wrap: wrap;
+	margin: -2%;
+}
+
+.contact--list{
+	margin-bottom: 30px;
+
+}
+
+.contact--grid {
+	padding:5px;
+	
+}
+
+
+
+
+
+
