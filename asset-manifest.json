@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/redux-contact-app/static/css/main.2dc8e897.chunk.css",
+    "main.js": "/redux-contact-app/static/js/main.1b3aabca.chunk.js",
+    "main.js.map": "/redux-contact-app/static/js/main.1b3aabca.chunk.js.map",
+    "runtime-main.js": "/redux-contact-app/static/js/runtime-main.78b91406.js",
+    "runtime-main.js.map": "/redux-contact-app/static/js/runtime-main.78b91406.js.map",
+    "static/css/2.589c37ce.chunk.css": "/redux-contact-app/static/css/2.589c37ce.chunk.css",
+    "static/js/2.dd7fd20a.chunk.js": "/redux-contact-app/static/js/2.dd7fd20a.chunk.js",
+    "static/js/2.dd7fd20a.chunk.js.map": "/redux-contact-app/static/js/2.dd7fd20a.chunk.js.map",
+    "index.html": "/redux-contact-app/index.html",
+    "precache-manifest.841aeb51f6717e0d1380b0dddc017bd4.js": "/redux-contact-app/precache-manifest.841aeb51f6717e0d1380b0dddc017bd4.js",
+    "service-worker.js": "/redux-contact-app/service-worker.js",
+    "static/css/2.589c37ce.chunk.css.map": "/redux-contact-app/static/css/2.589c37ce.chunk.css.map",
+    "static/css/main.2dc8e897.chunk.css.map": "/redux-contact-app/static/css/main.2dc8e897.chunk.css.map",
+    "static/js/2.dd7fd20a.chunk.js.LICENSE.txt": "/redux-contact-app/static/js/2.dd7fd20a.chunk.js.LICENSE.txt",
+    "static/media/mdb.css": "/redux-contact-app/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/all.min.css": "/redux-contact-app/static/media/fa-solid-900.f6121be5.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78b91406.js",
+    "static/css/2.589c37ce.chunk.css",
+    "static/js/2.dd7fd20a.chunk.js",
+    "static/css/main.2dc8e897.chunk.css",
+    "static/js/main.1b3aabca.chunk.js"
+  ]
+}
